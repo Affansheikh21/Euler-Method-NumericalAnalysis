@@ -1,3 +1,1 @@
-# Euler-Method-NumericalAnalysis
-Euler's Method for solving first order differential equations.
-Can compute at various step sizes.
+Contains Algorithms for evaluating solutions for first order differential equations.
